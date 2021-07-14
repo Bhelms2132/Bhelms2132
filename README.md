@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Brian Helms
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhelms2132&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhelms2132&show_icons=true&theme=tokyonight)
+
+
 
 <!---
 Bhelms2132/Bhelms2132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
