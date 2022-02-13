@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Helms</h1>
+<h1 align="center">Welcome to my Github page 👋</h1>
 <h3 align="center">A passionate frontend developer with a strong desire to learn new technologies and frameworks located in Charlotte, North Carolina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhelms2132&label=Profile%20views&color=0e75b6&style=flat" alt="bhelms2132" /> </p>
